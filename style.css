@@ -83,3 +83,8 @@ ul {
 .content-container {
     display: flex;
 }
+
+.container img {
+    border: #3882f6 solid 3px;
+    border-radius: 10px;
+}
