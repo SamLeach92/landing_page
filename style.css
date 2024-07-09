@@ -7,6 +7,7 @@
 body {
     display: flex;
     font-family: sans-serif;
+    flex-direction: column;
 }
 
 a {
@@ -18,7 +19,7 @@ a {
 .header {
     background-color: #1f2937;  
     color: #f9faf8;
-    padding: 10px 15%;
+    padding: 10px 15% 50px;
     flex: auto;
     justify-content: space-between;
     align-items: center;
@@ -37,3 +38,32 @@ ul {
     gap: 15px;
 }
 
+.title-box {
+    display: flex;
+    background-color: #1f2937;
+    padding: 10px 15%;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.title-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.title {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.title-text {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.title-button button {
+    background-color: #3882f6;
+    
+}
