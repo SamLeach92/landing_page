@@ -9,6 +9,10 @@ body {
     padding: 0 100px;
 }
 
+.header {
+    background-color: #1f2937;
+}
+
 .header-bar {
     display: flex;
 }
