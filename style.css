@@ -89,9 +89,21 @@ ul {
 
 .content-container {
     display: flex;
+    gap: 30px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    align-items: center;
 }
 
 .container img {
     border: #3882f6 solid 3px;
     border-radius: 10px;
+}
+
+.container div {
+    text-align: center;
 }
