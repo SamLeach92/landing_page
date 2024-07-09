@@ -1,1 +1,1 @@
-# landing_page
+Making a HTML/CSS generic landing page to put what has been learnt so far to practice, primarily focusing on correct use of flexbox.
