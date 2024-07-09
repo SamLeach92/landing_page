@@ -77,3 +77,9 @@ ul {
     display: flex;
     flex-direction: column;
 }
+
+/* content-header goes here */
+
+.content-container {
+    display: flex;
+}
