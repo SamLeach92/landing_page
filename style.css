@@ -144,3 +144,8 @@ ul {
     font-size: 20px;
     font-weight: bolder;
 }
+
+.action-subtext {
+    color: #f9faf8;
+    font-size: 12px;
+}
