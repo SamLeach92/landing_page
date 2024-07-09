@@ -159,3 +159,13 @@ ul {
     border: #f9faf8 solid 2px;
     font-weight: bold;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+    font-size: 16px;
+}
