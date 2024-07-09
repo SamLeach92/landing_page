@@ -7,3 +7,11 @@
 body {
     display: flex;
 }
+
+.header-bar {
+    display: flex;
+}
+
+ul {
+    display: flex;
+}
