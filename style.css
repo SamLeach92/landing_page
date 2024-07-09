@@ -138,3 +138,9 @@ ul {
     display: flex;
     justify-content: space-between;
 }
+
+.action-call {
+    color:#f9faf8;
+    font-size: 20px;
+    font-weight: bolder;
+}
