@@ -72,3 +72,8 @@ ul {
     border-radius: 6px;
     border: none;
 }
+
+.content-box {
+    display: flex;
+    flex-direction: column;
+}
