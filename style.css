@@ -80,7 +80,12 @@ ul {
     align-items: center;
 }
 
-/* content-header goes here */
+.content-header {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    margin-bottom: 30px;
+}
 
 .content-container {
     display: flex;
