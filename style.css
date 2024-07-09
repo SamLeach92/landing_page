@@ -6,7 +6,7 @@
 
 body {
     display: flex;
-    font-family: sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     flex-direction: column;
 }
 
@@ -57,7 +57,7 @@ ul {
 .title {
     color: #f9faf8;
     font-size: 48px;
-    font-weight: bolder;
+    font-weight: 800;
 }
 
 .title-text {
@@ -83,7 +83,7 @@ ul {
 .content-header {
     font-size: 36px;
     color: #1F2937;
-    font-weight: 900;
+    font-weight: 800;
     margin-bottom: 30px;
 }
 
@@ -118,7 +118,14 @@ ul {
 }
 
 .quote {
-    font-size: 36px;
-    color: #1f2937;
+    font-size: 32px;
+    color: #1F2937;
     font-style: italic;
+    font-weight: 500;
+}
+
+.quote-credit {
+    color: #1F2937;
+    align-self: flex-end;
+    font-weight: 900;
 }
