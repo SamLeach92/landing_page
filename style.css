@@ -10,12 +10,17 @@ body {
 
 a {
     text-decoration: none;
+    color: #f9faf8;
 }
 
 .header {
     background-color: #1f2937;  
     color: #f9faf8;
+    padding: 10px 100px;
+    flex: auto;
+    justify-content: space-between;
     display: flex;
+    gap: 20px;
 }
 
 ul {
